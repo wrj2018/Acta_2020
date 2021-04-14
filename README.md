@@ -5,4 +5,4 @@ In LAMMPS, you can use:
 
 pair_style      eam/alloy 
 
-pair_coeff  * * ./NiCoCr_A_atom.eam.alloy X
+pair_coeff  * * NiCoCr_A_atom.eam.alloy X
