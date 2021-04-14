@@ -4,4 +4,5 @@ Wu-Rong Jian, Zhuocheng Xie, Shuozhi Xu, Yanqing Su, Xiaohu Yao and Irene J. Bey
 In LAMMPS, you can use:
 
 pair_style      eam/alloy 
+
 pair_coeff  * * ./NiCoCr_A_atom.eam.alloy X
